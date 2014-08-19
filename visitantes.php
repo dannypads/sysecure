@@ -13,12 +13,12 @@
 
  	function get_visitante()
  	{
-
+ 		return 0;
  	}
 
  	function set_visitante()
  	{
- 		
+ 		return o;
  	}
  }
 ?>
